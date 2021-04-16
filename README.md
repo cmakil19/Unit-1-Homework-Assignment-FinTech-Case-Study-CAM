@@ -14,9 +14,9 @@ Betterment has to date raised funding through a total of 7 rounds of funding.  A
 
 ## Business Activities:
 
-Betterment mission is to create a platform for everyday investors struggling to manage their own investments.  Due to the lack of financial education for most individuals and overall fear of the unknown, Betterment seeks to offer a simple, secure service that anyone can use and uses proven long term, passive investing strategies to offer net positive outcomes at a low fee in relation to the overall personal investing space. Betterment's intended customer base is the new investor or investor looking for long term goals with minimal work.  They provide a investment advice, banking services, and operate as a fiduciary for their customers.  The company is regulated by FINRA and the SEC and is licensed to operate as a Broker-Dealer.
+Betterment's mission is to create a platform for everyday investors struggling to manage their own investments.  Due to the lack of financial education for most individuals and overall fear of the unknown, Betterment seeks to offer a simple, secure service that anyone can use and uses proven long term, passive investing strategies to offer net positive outcomes at a low fee in relation to the overall personal investing space. Betterment's intended customer base is the new investor or investor looking for long term goals with minimal work.  They provide a investment advice, banking services, and operate as a fiduciary for their customers.  The company is regulated by FINRA, SEC, licensed to operate as a Broker-Dealer, and FDIC insured.
 
-At the end of 2019, the market size was estimated at 300 billion dollars AUM (Assets Under Management). The current market size for Robo-Advisory Services is esitmated to be around 1 trillionsdollars AUM. 
+At the end of 2019, the market size was estimated at 300 billion dollars AUM (Assets Under Management). The current market size for Robo-Advisory Services is esitmated to be around 1 trillion dollars AUM. 
 
 There entire portfolio management is based on Modern Stock Theory and follows their proprietary algorithm.  Completely automated process for the customer.  They utilize Tax Loss Harvesting and automatically rebalance portfolios when performance exceeds specific limits.
 
